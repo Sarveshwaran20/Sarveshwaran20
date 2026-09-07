@@ -21,6 +21,7 @@ I’m a developer with a strong focus on creating interactive and user-friendly 
 <a href="https://www.github.com/Sarveshwaran20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sarveshwaran20?logo=github&style=for-the-badge&color=f97316&labelColor=27272a" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshwaran20&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshwaran20" /> </p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
