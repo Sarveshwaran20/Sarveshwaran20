@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshwaran20&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshwaran20" /> </p>
 
-- 🔭 I’m currently working on [A Global Temperature tracker](https://github.com/Sarveshwaran20/Global-Teamperature-Tracker)
+- 🔭 I’m currently working on [ORBIT MATRIX MVP](https://sarveshwaran20.github.io/Orbit-Matrix/)
 
-- 🌱 I’m currently learning **Python-Dictionaries,Database Management**
+- 🔭 I’m currently working on a game called [RIFT LINES MOBILE]
+
+- 🌱 I’m currently learning **c# and Unity**
 
 - 📫 How to reach me **sarveshwaran.k2008@gmail.com**
 
-- ⚡ Fun fact *Nothing for now**
+- ⚡ Fun fact *Nothing fun about me :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
